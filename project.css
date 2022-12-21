@@ -1,0 +1,54 @@
+body {
+	font-family: serif;
+	margin: auto;
+	background: url(https://cdn.shopify.com/s/files/1/0358/1661/products/TripleDots__blue-on-white_D_detail_800x.jpg?v=1590927778);
+	background-size: 30%;
+}
+
+th {
+	font-size: 25px;
+	color: #2c375a;
+	text-decoration: underline;
+	text-shadow: 1px 1px;
+}
+tr {
+	text-align: center;
+	font-size: 20px;
+}
+hr {
+	width: 500px;
+	border-style: dotted;
+	border-color: #727a91;
+}
+p {
+	background-color: #727a91;
+}
+.menu_style {
+	background-color: #727a91;
+	border-style: dotted;
+	border-width: 5px;
+	border-color: #8a90a4;
+	border-radius: 5px;
+	color: #121e41;
+	padding: 10px 10px 10px 10px;
+}
+.subtext {
+	font-size: 15px;
+}
+.dish_pics {
+	width: 350px;
+	height: 250px;
+	border-radius: 5px;
+}
+.soc_pics {
+	width: 50px;
+	height: 50px;
+}
+#title {
+	color: #142148;
+	background-color: #727a91;
+	width: 100px;
+	border-style: double;
+	border-width: 5px;
+	text-shadow: 1px 1px;
+}
